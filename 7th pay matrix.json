@@ -1,0 +1,361 @@
+{
+    "7thPayMatrix": {
+      "AssistantProfessor": [
+        {
+          "Level": 10,
+          "Index": 1,
+          "BasicPay": 57700
+        },
+        {
+          "Level": 10,
+          "Index": 2,
+          "BasicPay": 59100
+        },
+        {
+          "Level": 10,
+          "Index": 3,
+          "BasicPay": 60500
+        },
+        {
+          "Level": 10,
+          "Index": 4,
+          "BasicPay": 61900
+        },
+        {
+          "Level": 10,
+          "Index": 5,
+          "BasicPay": 63400
+        },
+        {
+          "Level": 10,
+          "Index": 6,
+          "BasicPay": 64900
+        },
+        {
+          "Level": 10,
+          "Index": 7,
+          "BasicPay": 66400
+        },
+        {
+          "Level": 10,
+          "Index": 8,
+          "BasicPay": 68000
+        },
+        {
+          "Level": 10,
+          "Index": 9,
+          "BasicPay": 69600
+        },
+        {
+          "Level": 10,
+          "Index": 10,
+          "BasicPay": 71200
+        },
+        {
+          "Level": 11,
+          "Index": 1,
+          "BasicPay": 73100
+        },
+        {
+          "Level": 11,
+          "Index": 2,
+          "BasicPay": 74700
+        },
+        {
+          "Level": 11,
+          "Index": 3,
+          "BasicPay": 76400
+        },
+        {
+          "Level": 11,
+          "Index": 4,
+          "BasicPay": 78200
+        },
+        {
+          "Level": 11,
+          "Index": 5,
+          "BasicPay": 80000
+        },
+        {
+          "Level": 11,
+          "Index": 6,
+          "BasicPay": 81800
+        },
+        {
+          "Level": 11,
+          "Index": 7,
+          "BasicPay": 83600
+        },
+        {
+          "Level": 11,
+          "Index": 8,
+          "BasicPay": 85400
+        },
+        {
+          "Level": 11,
+          "Index": 9,
+          "BasicPay": 87200
+        },
+        {
+          "Level": 11,
+          "Index": 10,
+          "BasicPay": 89000
+        },
+        {
+          "Level": 12,
+          "Index": 1,
+          "BasicPay": 90900
+        },
+        {
+          "Level": 12,
+          "Index": 2,
+          "BasicPay": 92800
+        },
+        {
+          "Level": 12,
+          "Index": 3,
+          "BasicPay": 94700
+        },
+        {
+          "Level": 12,
+          "Index": 4,
+          "BasicPay": 96700
+        },
+        {
+          "Level": 12,
+          "Index": 5,
+          "BasicPay": 98700
+        },
+        {
+          "Level": 12,
+          "Index": 6,
+          "BasicPay": 100700
+        },
+        {
+          "Level": 12,
+          "Index": 7,
+          "BasicPay": 102700
+        },
+        {
+          "Level": 12,
+          "Index": 8,
+          "BasicPay": 104700
+        },
+        {
+          "Level": 12,
+          "Index": 9,
+          "BasicPay": 106700
+        },
+        {
+          "Level": 12,
+          "Index": 10,
+          "BasicPay": 108700
+        }
+      ],
+      "AssociateProfessor": [
+        {
+          "Level": 13,
+          "Index": 1,
+          "BasicPay": 131400
+        },
+        {
+          "Level": 13,
+          "Index": 2,
+          "BasicPay": 135800
+        },
+        {
+          "Level": 13,
+          "Index": 3,
+          "BasicPay": 140300
+        },
+        {
+          "Level": 13,
+          "Index": 4,
+          "BasicPay": 144900
+        },
+        {
+          "Level": 13,
+          "Index": 5,
+          "BasicPay": 149600
+        },
+        {
+          "Level": 13,
+          "Index": 6,
+          "BasicPay": 154400
+        },
+        {
+          "Level": 13,
+          "Index": 7,
+          "BasicPay": 159300
+        },
+        {
+          "Level": 13,
+          "Index": 8,
+          "BasicPay": 164300
+        },
+        {
+          "Level": 13,
+          "Index": 9,
+          "BasicPay": 169400
+        },
+        {
+          "Level": 13,
+          "Index": 10,
+          "BasicPay": 174600
+        },
+        {
+          "Level": 14,
+          "Index": 1,
+          "BasicPay": 180200
+        },
+        {
+          "Level": 14,
+          "Index": 2,
+          "BasicPay": 185300
+        },
+        {
+          "Level": 14,
+          "Index": 3,
+          "BasicPay": 190500
+        },
+        {
+          "Level": 14,
+          "Index": 4,
+          "BasicPay": 195800
+        },
+        {
+          "Level": 14,
+          "Index": 5,
+          "BasicPay": 201200
+        },
+        {
+          "Level": 14,
+          "Index": 6,
+          "BasicPay": 206600
+        },
+        {
+          "Level": 14,
+          "Index": 7,
+          "BasicPay": 212100
+        },
+        {
+          "Level": 14,
+          "Index": 8,
+          "BasicPay": 217700
+        },
+        {
+          "Level": 14,
+          "Index": 9,
+          "BasicPay": 223400
+        },
+        {
+          "Level": 14,
+          "Index": 10,
+          "BasicPay": 229200
+        }
+      ],
+      "SeniorProfessor": [
+        {
+          "Level": 14,
+          "Index": 1,
+          "BasicPay": 144200
+        },
+        {
+          "Level": 14,
+          "Index": 2,
+          "BasicPay": 148500
+        },
+        {
+          "Level": 14,
+          "Index": 3,
+          "BasicPay": 152900
+        },
+        {
+          "Level": 14,
+          "Index": 4,
+          "BasicPay": 157400
+        },
+        {
+          "Level": 14,
+          "Index": 5,
+          "BasicPay": 162000
+        },
+        {
+          "Level": 14,
+          "Index": 6,
+          "BasicPay": 166700
+        },
+        {
+          "Level": 14,
+          "Index": 7,
+          "BasicPay": 171500
+        },
+        {
+          "Level": 14,
+          "Index": 8,
+          "BasicPay": 176400
+        },
+        {
+          "Level": 14,
+          "Index": 9,
+          "BasicPay": 181500
+        },
+        {
+          "Level": 14,
+          "Index": 10,
+          "BasicPay": 186700
+        },
+        {
+          "Level": 15,
+          "Index": 1,
+          "BasicPay": 182200
+        },
+        {
+          "Level": 15,
+          "Index": 2,
+          "BasicPay": 187700
+        },
+        {
+          "Level": 15,
+          "Index": 3,
+          "BasicPay": 193300
+        },
+        {
+          "Level": 15,
+          "Index": 4,
+          "BasicPay": 199100
+        },
+        {
+          "Level": 15,
+          "Index": 5,
+          "BasicPay": 205100
+        },
+        {
+          "Level": 15,
+          "Index": 6,
+          "BasicPay": 211300
+        },
+        {
+          "Level": 15,
+          "Index": 7,
+          "BasicPay": 217600
+        },
+        {
+          "Level": 15,
+          "Index": 8,
+          "BasicPay": 224100
+        },
+        {
+          "Level": 15,
+          "Index": 9,
+          "BasicPay": 230800
+        },
+        {
+          "Level": 15,
+          "Index": 10,
+          "BasicPay": 237600
+        }
+      ]
+    }
+  }
+  

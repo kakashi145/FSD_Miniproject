@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <linkrel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"></linkrel>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="G:\BTECH\TY\FSD\miniproject\commonstyle.css">
+</head>
+<body>
+    <div class="top-bar">
+        <span class="menu-icon" onclick="openNav()">&#9776;</span>
+        <h1>M.I.T University</h1>
+    </div>
+    <div class="container">
+        <div id="mysidenav" class="sidenav">
+            <a href="" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="#">Dashboard</a>
+            <a href="#">Finance</a>
+            <a href="G:\BTECH\TY\FSD\miniproject\employees\employee.html">Employees</a>
+            <a href="#">Analysis</a>
+            <a href="#">Promotions</a>
+        </div>
+        <div id="main">
+        <div class="content-container" id="content-container">
+            <div class="header">
+                <div class="total-employees">
+                    <h3>Total Employees</h3>
+                    <p>856</p>
+                </div>
+                <!--<div class="net-profit">
+                    <h3>Net Profit</h3>
+                    <p>$10,0000</p>
+                </div>-->
+                
+            </div>
+            <div class="content">
+                <div class="salary-component">
+                    <h3>Salary Component</h3>
+                    <div class="chart">
+                        <canvas id="salaryChart"></canvas>
+                    </div>
+                </div>
+                <div class="employee-status">
+                    <h3>Employee Status</h3>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Employee Name</th>
+                                <th>Department</th>
+                                <th>Age</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Sarthak</td>
+                                <td>Marketing</td>
+                                <td>22</td>
+                                <td>Permanent</td>
+                            </tr>
+                            <tr>
+                                <td>Avneet</td>
+                                <td>Finance</td>
+                                <td>24</td>
+                                <td>Contract</td>
+                            </tr>
+                            <tr>
+                                <td>Mitali</td>
+                                <td>R&D</td>
+                                <td>28</td>
+                                <td>Permanent</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="employee-composition">
+                    <h3>Employee Composition</h3>
+                    <div class="chart">
+                        <canvas id="compositionChart"></canvas>
+                    </div>
+                    <p>856 employee total</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+    <script src="G:\BTECH\TY\FSD\miniproject\commonstyle.css"></script>
+</body>
+</html>

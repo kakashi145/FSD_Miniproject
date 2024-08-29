@@ -1,0 +1,25 @@
+{
+    "Academic_Levels": {
+        "Level_14": {
+            "Designation": "Professor",
+            "Entry_Pay": 144200,
+            "Pay_Band": "\u20b91,44,200 \u2013 \u20b92,18,200",
+            "Level_in_Pay_Matrix": 14
+        },
+        "Level_15": {
+            "Designation": "Senior Professor",
+            "Entry_Pay": 182200,
+            "Pay_Band": "\u20b91,82,200 \u2013 \u20b92,24,100",
+            "Level_in_Pay_Matrix": 15
+        }
+    },
+    "Increment": {
+        "Annual_Increment_Percentage": 3,
+        "Base": "Level in Pay Matrix"
+    },
+    "Allowances": [
+        "House Rent Allowance (HRA)",
+        "Travel Allowance (TA)",
+        "Other Allowances based on location and service conditions"
+    ]
+}
